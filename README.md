@@ -1,5 +1,6 @@
-[![ElVent0](https://github.com/ElVent0/ElVent0/blob/main/github-header.png)]
+![ElVent0](https://github.com/ElVent0/ElVent0/blob/main/github-header.png)
 
-# Front-wnd developer 🐱‍💻
+# Front-end developer 🐱‍💻
 
-🌱 I’m currently learning REACT
+📁 See my projects [https://github.com/ElVent0?tab=repositories]
+👨‍💻 I’m currently learning REACT
