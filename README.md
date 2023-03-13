@@ -3,4 +3,4 @@
 # Front-end developer 🐱‍💻
 
 - 📁 See my projects: [https://github.com/ElVent0?tab=repositories]
-- 👨‍💻 I’m currently learning TypeScript
+<!-- - 👨‍💻 I’m currently learning TypeScript -->
